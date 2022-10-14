@@ -1,0 +1,75 @@
+Initialize engine version: 5.5.6f1 (3fb31a95adee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   20.19.15.4835
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\saviour\Saviour_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\saviour\Saviour_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\saviour\Saviour_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  4.902 seconds
+Platform assembly: F:\saviour\Saviour_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\saviour\Saviour_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.906900 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1bd0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.911200 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1040.
+Total: 13.446400 ms (FindLiveObjects: 0.213700 ms CreateObjectMapping: 0.107000 ms MarkObjects: 3.282400 ms  DeleteObjects: 9.840199 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.134300 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 925.
+Total: 5.170200 ms (FindLiveObjects: 0.296900 ms CreateObjectMapping: 0.110700 ms MarkObjects: 1.583800 ms  DeleteObjects: 3.176600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.365300 ms
+
+Unloading 255 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 39.199299 ms (FindLiveObjects: 0.220000 ms CreateObjectMapping: 0.183700 ms MarkObjects: 1.120300 ms  DeleteObjects: 37.672798 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.367700 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 961.
+Total: 2.207900 ms (FindLiveObjects: 0.166300 ms CreateObjectMapping: 0.110100 ms MarkObjects: 1.800300 ms  DeleteObjects: 0.129300 ms)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.553500 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1042.
+Total: 3.448300 ms (FindLiveObjects: 0.263300 ms CreateObjectMapping: 0.114900 ms MarkObjects: 2.979700 ms  DeleteObjects: 0.088200 ms)
+
